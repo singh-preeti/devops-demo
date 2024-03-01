@@ -9,3 +9,14 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/singh-preeti/github_demo.git
 git push -u origin main
+
+Create a repository 
+main branch add one recipes.txt file add some food iteams and commit it
+
+create a new branch in that also add one recipes.txt file with some additional food items 
+
+later pull the request 
+
+merge the branches 
+
+main branch the child branch is merged
