@@ -20,3 +20,11 @@ later pull the request
 merge the branches 
 
 main branch the child branch is merged
+
+
+Simple steps for pushing data to repository
+git init
+git add .
+git commit -m "message"
+git push -u "url" master
+
